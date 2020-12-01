@@ -1,0 +1,13 @@
+C:\Users\지솔빈\source\repos\MyFirstApp\RoadBook.CsharpBasic.Chapter07\bin\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter07.exe
+C:\Users\지솔빈\source\repos\MyFirstApp\RoadBook.CsharpBasic.Chapter07\bin\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter07.deps.json
+C:\Users\지솔빈\source\repos\MyFirstApp\RoadBook.CsharpBasic.Chapter07\bin\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter07.runtimeconfig.json
+C:\Users\지솔빈\source\repos\MyFirstApp\RoadBook.CsharpBasic.Chapter07\bin\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter07.runtimeconfig.dev.json
+C:\Users\지솔빈\source\repos\MyFirstApp\RoadBook.CsharpBasic.Chapter07\bin\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter07.dll
+C:\Users\지솔빈\source\repos\MyFirstApp\RoadBook.CsharpBasic.Chapter07\bin\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter07.pdb
+C:\Users\지솔빈\source\repos\MyFirstApp\RoadBook.CsharpBasic.Chapter07\obj\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter07.csprojAssemblyReference.cache
+C:\Users\지솔빈\source\repos\MyFirstApp\RoadBook.CsharpBasic.Chapter07\obj\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter07.AssemblyInfoInputs.cache
+C:\Users\지솔빈\source\repos\MyFirstApp\RoadBook.CsharpBasic.Chapter07\obj\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter07.AssemblyInfo.cs
+C:\Users\지솔빈\source\repos\MyFirstApp\RoadBook.CsharpBasic.Chapter07\obj\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter07.csproj.CoreCompileInputs.cache
+C:\Users\지솔빈\source\repos\MyFirstApp\RoadBook.CsharpBasic.Chapter07\obj\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter07.dll
+C:\Users\지솔빈\source\repos\MyFirstApp\RoadBook.CsharpBasic.Chapter07\obj\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter07.pdb
+C:\Users\지솔빈\source\repos\MyFirstApp\RoadBook.CsharpBasic.Chapter07\obj\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter07.genruntimeconfig.cache
