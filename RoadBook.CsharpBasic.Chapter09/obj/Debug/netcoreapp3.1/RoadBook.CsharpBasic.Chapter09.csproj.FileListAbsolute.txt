@@ -1,0 +1,15 @@
+C:\Users\지솔빈\source\repos\MyFirstApp\RoadBook.CsharpBasic.Chapter09\bin\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter09.exe
+C:\Users\지솔빈\source\repos\MyFirstApp\RoadBook.CsharpBasic.Chapter09\bin\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter09.deps.json
+C:\Users\지솔빈\source\repos\MyFirstApp\RoadBook.CsharpBasic.Chapter09\bin\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter09.runtimeconfig.json
+C:\Users\지솔빈\source\repos\MyFirstApp\RoadBook.CsharpBasic.Chapter09\bin\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter09.runtimeconfig.dev.json
+C:\Users\지솔빈\source\repos\MyFirstApp\RoadBook.CsharpBasic.Chapter09\bin\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter09.dll
+C:\Users\지솔빈\source\repos\MyFirstApp\RoadBook.CsharpBasic.Chapter09\bin\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter09.pdb
+C:\Users\지솔빈\source\repos\MyFirstApp\RoadBook.CsharpBasic.Chapter09\obj\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter09.AssemblyInfoInputs.cache
+C:\Users\지솔빈\source\repos\MyFirstApp\RoadBook.CsharpBasic.Chapter09\obj\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter09.AssemblyInfo.cs
+C:\Users\지솔빈\source\repos\MyFirstApp\RoadBook.CsharpBasic.Chapter09\obj\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter09.dll
+C:\Users\지솔빈\source\repos\MyFirstApp\RoadBook.CsharpBasic.Chapter09\obj\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter09.pdb
+C:\Users\지솔빈\source\repos\MyFirstApp\RoadBook.CsharpBasic.Chapter09\obj\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter09.genruntimeconfig.cache
+C:\Users\지솔빈\source\repos\MyFirstApp\RoadBook.CsharpBasic.Chapter09\obj\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter09.csprojAssemblyReference.cache
+C:\Users\지솔빈\source\repos\MyFirstApp\RoadBook.CsharpBasic.Chapter09\bin\Debug\netcoreapp3.1\LinqToSqlRetry.dll
+C:\Users\지솔빈\source\repos\MyFirstApp\RoadBook.CsharpBasic.Chapter09\obj\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter09.csproj.CoreCompileInputs.cache
+C:\Users\지솔빈\source\repos\MyFirstApp\RoadBook.CsharpBasic.Chapter09\obj\Debug\netcoreapp3.1\RoadBook.CsharpBasic.Chapter09.csproj.CopyComplete
