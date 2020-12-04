@@ -24,8 +24,14 @@ namespace RoadBook.CsharpBasic.Chapter08
             //Works.Ex001 ex001 = new Works.Ex001();
             //ex001.Run();
 
-            Works.Ex002 ex002 = new Works.Ex002();
-            ex002.Run();
+            //Works.Ex002 ex002 = new Works.Ex002();
+            //ex002.Run();
+
+            //Works.Ex001_2 ex001_2 = new Works.Ex001_2();
+            //ex001_2.Run();
+
+            Works.Ex002_2 ex002_2 = new Works.Ex002_2();
+            ex002_2.Run();
         }
     }
 }
